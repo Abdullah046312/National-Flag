@@ -1,0 +1,407 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.main{
+    height: 500px;
+    width: 800px;
+    background-color: tomato;
+    margin: 0 auto;
+    position: relative;
+}
+.Colombia{
+    height: 250px;
+    width: 800px;
+    background-color: yellow;
+}
+.one{
+    height: 125px;
+    width: 800px;
+    background-color: rgb(5, 149, 197);
+}
+.Germany{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(215, 250, 133);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.two{
+    height: 180px;
+    width: 800px;
+    background-color: black;
+}
+.three{
+    height: 180px;
+    width: 800px;
+    background-color: brown;
+
+}
+.Hungary{
+    height: 500px;
+    width: 800px;
+    background-color: green;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.four{
+    height: 180px;
+    width: 800px;
+    background-color: red;
+}
+.five{
+    height: 180px;
+    width: 800px;
+    background-color: rgb(247, 242, 242);
+
+}
+.Indonesia{
+    height: 400px;
+    width: 700px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.six{
+    height: 200px;
+    width: 700px;
+    background-color: red;
+}
+.Thailand{
+    height: 500px;
+    width: 800px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+
+}
+.seven{
+    height: 75px;
+    width: 800px;
+    background-color: red;
+}
+.eight{
+    height: 75px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.nine{
+    height: 200px;
+    width: 800px;
+    background-color: rgb(22, 146, 187);
+}
+.ten{
+    height: 75px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.Japan{
+    height: 500px;
+    width: 800px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.eleven{
+    height: 275px;
+    width: 275px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.Latvia{
+    height: 500px;
+    width: 800px;
+    background-color: darkred;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+    
+}
+.twelve{
+    height: 210px;
+    width: 800px;
+    background-color: darkred;
+}
+.thirteen{
+    height: 100px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.Gambia{
+    height: 500px;
+    width: 800px;
+    background-color: green;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.fourteen{
+    height: 160px;
+    width: 800px;
+    background-color: red;
+}
+.fifteen{
+    height: 20px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.sixteen{
+    height: 160px;
+    width: 800px;
+    background-color: rgba(120, 33, 220, 0.819);
+}
+.seventeen{
+    height: 20px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.Netherlands{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(144, 34, 240);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.eightteen{
+    height: 175px;
+    width: 800px;
+    background-color: red;
+}
+.nineteen{
+    height: 175px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.Poland{
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twenty{
+    height: 210px;
+    width: 700px;
+    background-color: whitesmoke;
+}
+.Russia{
+    height: 500px;
+    width: 800px;
+    background-color:red;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twentyone{
+    height: 180px;
+    width: 800px;
+    background-color: whitesmoke;
+}
+.twentytwo{
+    height: 180px;
+    width: 800px;
+    background-color: rgb(23, 83, 194);
+}
+.Italy{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(215, 42, 42);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twentythree{
+    height: 500px;
+    width: 275px;
+    background-color: rgb(40, 210, 40);
+}
+.twentyfour{
+    height: 500px;
+    width: 275px;
+    background-color: whitesmoke;
+    position: absolute;
+    right: 260px;
+    bottom: 0;
+}
+.Nigeria{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(22, 170, 22);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twentyfive{
+    height: 500px;
+    width: 280px;
+    background-color: rgb(22, 170, 22);
+}
+.twentysix{
+    height: 500px;
+    width: 280px;
+    background-color: whitesmoke;
+    position: absolute;
+    right: 260px;
+    bottom: 0;
+}
+.Ukraine{
+    height: 400px;
+    width: 700px;
+    background-color: rgb(206, 206, 39);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twentyseven{
+    height: 210px;
+    width: 700px;
+    background-color: rgb(113, 153, 238);
+}
+.bangladesh{
+    height: 500px;
+    width: 800px;
+    background-color: green;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.twentyeight{
+    height: 275px;
+    width: 275px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.twentynine{
+    height: 1000px;
+    width: 30px;
+    background-color: rgb(43, 70, 3);
+}
+
+
+.thirty {
+    height: 200px;
+    width: 300px;
+    background-color: rgb(101, 181, 17);
+    position: absolute;
+    left: -128px;
+    bottom: -501px;
+    border-radius: 30px 30px 0 0;
+}
+.Finland{
+    height: 500px;
+    width: 800px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 550px;
+    position: relative;
+    
+}
+.thirtyone{
+    height: 500px;
+    width: 80px;
+    background-color: rgb(53, 30, 146);
+    position: absolute;
+    left: 35%;
+    top: 0%;
+    transform: translate(-35%, 0%);
+}
+.thirtytwo{
+    height: 80px;
+    width: 800px;
+    background-color: rgb(53, 30, 146);
+    position: absolute;
+    left: 0%;
+    top: 50%;
+    transform: translate(0%, -50%);
+}
+.Denmark{
+    height: 500px;
+    width: 800px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.thirtythree{
+    height: 500px;
+    width: 80px;
+    background-color: whitesmoke;
+    position: absolute;
+    left: 35%;
+    top: 0%;
+    transform: translate(-35%, 0%);
+}
+.thirtyfour{
+    height: 80px;
+    width: 800px;
+    background-color: whitesmoke;
+    position: absolute;
+    left: 0%;
+    top: 50%;
+    transform: translate(0%, -50%);
+    
+}
+.Sweden{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(121, 65, 206);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.thirtyfive{
+    height: 500px;
+    width: 80px;
+    background-color: yellowgreen;
+    position: absolute;
+    left: 35%;
+    top: 0%;
+    transform: translate(-35%, 0%);
+}
+.thirtysix{
+    height: 80px;
+    width: 800px;
+    background-color: yellowgreen;
+    position: absolute;
+    left: 0%;
+    top: 50%;
+    transform: translate(0%, -50%);
+}
+.Palau{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(128, 122, 236);
+    margin: 0 auto;
+    margin-top: 30px;
+    position: relative;
+}
+.thirtyseven{
+    height: 275px;
+    width: 275px;
+    background-color: rgb(221, 218, 26);
+    border-radius: 50%;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
